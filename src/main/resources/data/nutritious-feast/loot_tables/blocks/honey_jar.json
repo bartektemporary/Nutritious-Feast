@@ -1,0 +1,99 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "nutritious-feast:honey_jar",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "nutritious-feast:honey_jar",
+              "properties": {
+                "times_eaten": "0"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nutritious-feast:honey_jar",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{times_eaten: 1, CustomModelData: 1}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "nutritious-feast:honey_jar",
+              "properties": {
+                "times_eaten": "1"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nutritious-feast:honey_jar",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{times_eaten: 2, CustomModelData: 2}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "nutritious-feast:honey_jar",
+              "properties": {
+                "times_eaten": "2"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nutritious-feast:honey_jar",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{times_eaten: 3, CustomModelData: 3}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "nutritious-feast:honey_jar",
+              "properties": {
+                "times_eaten": "3"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nutritious-feast:honey_jar",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{times_eaten: 4, CustomModelData: 4}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "nutritious-feast:honey_jar",
+              "properties": {
+                "times_eaten": "4"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

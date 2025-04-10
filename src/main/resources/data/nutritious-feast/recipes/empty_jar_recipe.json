@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "000",
+    "0 0",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "nutritious-feast:empty_jar",
+    "count": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "nutritious-feast",
+	"version": "${version}",
+	"name": "Nutritious Feast",
+	"description": "This is a mod that adds more Vanilla styled food to the game",
+	"authors": [
+		"Kotowsky"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/members/teny_kotowsky/projects",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "All Rights Reserved",
+	"icon": "assets/nutritious-feast/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "tenykotowsky.nutritiousfeast.NutritiousFeast"
+		],
+		"client": [
+			"tenykotowsky.nutritiousfeast.NutritiousFeastClient"
+		],
+		"fabric-datagen": [
+			"tenykotowsky.nutritiousfeast.NutritiousFeastDataGenerator"
+		]
+	},
+	"mixins": [
+		"nutritious-feast.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.10",
+		"minecraft": ">=1.20.5",
+		"java": ">=17",
+		"fabric-api": ">=0.97.6"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

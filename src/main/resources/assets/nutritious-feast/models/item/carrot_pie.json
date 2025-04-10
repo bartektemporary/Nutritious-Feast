@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nutritious-feast:item/carrot_pie"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nutritious-feast:blueberries"
+    },
+    {
+      "item": "nutritious-feast:empty_jar"
+    },
+    {
+      "item": "nutritious-feast:blueberries"
+    },
+    {
+      "item": "nutritious-feast:blueberries"
+    },
+    {
+      "item": "nutritious-feast:blueberries"
+    },
+    {
+      "item": "nutritious-feast:blueberries"
+    }
+  ],
+  "result": {
+    "item": "nutritious-feast:blueberry_jam_jar",
+    "count": 1
+  }
+}

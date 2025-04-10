@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nutritious-feast:illuminating_flower"
+    }
+  ],
+  "result": {
+    "item": "nutritious-feast:illuminating_sugar",
+    "count": 4
+  }
+}

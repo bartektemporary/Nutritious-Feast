@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "times_eaten=0": {
+      "model": "nutritious-feast:block/sweet_berry_jam_jar1"
+    },
+    "times_eaten=1": {
+      "model": "nutritious-feast:block/sweet_berry_jam_jar2"
+    },
+    "times_eaten=2": {
+      "model": "nutritious-feast:block/sweet_berry_jam_jar3"
+    },
+    "times_eaten=3": {
+      "model": "nutritious-feast:block/sweet_berry_jam_jar4"
+    },
+    "times_eaten=4": {
+      "model": "nutritious-feast:block/sweet_berry_jam_jar5"
+    }
+  }
+}

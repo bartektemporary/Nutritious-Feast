@@ -1,0 +1,47 @@
+{
+  "parent": "nutritious-feast:block/cookie_jar1",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "nutritious-feast:block/cookie_jar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "nutritious-feast:block/cookie_jar3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "nutritious-feast:block/cookie_jar4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "nutritious-feast:block/cookie_jar5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "nutritious-feast:block/cookie_jar6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "nutritious-feast:block/cookie_jar7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "nutritious-feast:block/cookie_jar8"
+    }
+  ]
+}

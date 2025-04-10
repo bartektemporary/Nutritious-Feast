@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nutritious-feast:illuminating_sugar"
+    },
+    {
+      "item": "nutritious-feast:illuminating_sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "nutritious-feast:illuminating_pie",
+    "count": 1
+  }
+}

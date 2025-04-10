@@ -1,0 +1,29 @@
+{
+  "parent": "nutritious-feast:block/blueberry_jam_jar1",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "nutritious-feast:block/blueberry_jam_jar2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "nutritious-feast:block/blueberry_jam_jar3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "nutritious-feast:block/blueberry_jam_jar4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "nutritious-feast:block/blueberry_jam_jar5"
+    }
+  ]
+}

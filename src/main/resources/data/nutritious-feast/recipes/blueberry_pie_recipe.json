@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nutritious-feast:blueberries"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "nutritious-feast:blueberries"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "nutritious-feast:blueberry_pie",
+    "count": 1
+  }
+}

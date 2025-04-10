@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "nutritious-feast:empty_jar"
+    },
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "minecraft:cookie"
+    },
+    {
+      "item": "minecraft:cookie"
+    }
+  ],
+  "result": {
+    "item": "nutritious-feast:cookie_jar",
+    "count": 1
+  }
+}

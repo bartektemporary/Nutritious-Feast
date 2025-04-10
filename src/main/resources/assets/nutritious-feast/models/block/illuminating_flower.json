@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "nutritious-feast:block/illuminating_flower"
+  }
+}
